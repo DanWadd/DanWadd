@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanWadd
+- 👀 I’m interested in learining to code
+- 🌱 I’m currently learning general web development tools like html, javascript, css, REACT, etc.
